@@ -1,6 +1,6 @@
 
 
-[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaJHee&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaJHee&theme=react&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
